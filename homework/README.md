@@ -1,6 +1,8 @@
 # Homework
 
-Each assignment gets its own folder here (`hw01/`, `hw02/`, ...) with a `README.md` describing the task. No assignments have been posted yet.
+Each assignment gets its own folder here (`hw01/`, `hw02/`, ...) with a `README.md` describing the task.
+
+- **[Homework 1](hw01/): the hardest task in your field.** Due Oct 7. Submitted to [huangzesen/ai-in-research-homework](https://github.com/huangzesen/ai-in-research-homework), which has its own instructions; the steps below don't apply to it.
 
 ## How to submit
 

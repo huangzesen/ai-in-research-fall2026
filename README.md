@@ -26,7 +26,7 @@ The sequence and depth will stay flexible based on participants' interests. No p
 
 | # | Date | Topic |
 |---|------|-------|
-| 1 | Wed Sep 30 | [Introduction: how LLMs and AI agents work](sessions/01-2026-09-30/) |
+| 1 | Wed Sep 30 | [Where are you with AI? How LLMs work](sessions/01-2026-09-30/) |
 | 2 | Wed Oct 7 | TBD |
 | 3 | Wed Oct 14 | TBD |
 | 4 | Wed Oct 21 | TBD |
